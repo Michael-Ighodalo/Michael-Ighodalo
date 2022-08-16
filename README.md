@@ -7,7 +7,7 @@
 ## Projects 🔭
 
 * Building SCANNER, an android
-<span style="color:blue">hey</span>
+@@hey
 ### Hi there 👋
 
 <!--

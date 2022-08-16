@@ -2,7 +2,7 @@
 # Hi, I'm Michael Ighodalo💻
 
     😄 Pronouns: He/Him/His
-
+**Michael Sebastine Ighodalo** is a Full-Stack Mobile Application developer
 ### Hi there 👋
 
 <!--

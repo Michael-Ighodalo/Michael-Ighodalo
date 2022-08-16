@@ -1,4 +1,8 @@
+
 # Hi, I'm Michael Ighodalo💻
+
+ 😄 Pronouns: He/Him/His
+
 ### Hi there 👋
 
 <!--

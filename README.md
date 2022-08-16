@@ -2,7 +2,10 @@
 # Hi, I'm Michael Ighodalo💻
 
     😄 Pronouns: He/Him/His
-**Michael Sebastine Ighodalo** is a Full-Stack Mobile Application developer
+**Michael Sebastine Ighodalo** is a Full-Stack Mobile Application and Internet of Things developer, working with stacks like
+Java, Kotlin, Dart (Flutter) in Android App development, sometimes native apps and C++ language for Arduino sketches.
+I have a penchant for creativity and bringing my ideas to reality, Aiesecer, critical thinker and Solution-oriented persona.
+
 ### Hi there 👋
 
 <!--

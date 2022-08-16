@@ -4,6 +4,10 @@
     😄 Pronouns: He/Him/His
 **Michael Sebastine Ighodalo** is a Full-Stack Mobile Application and Internet of Things developer who have a penchant for creativity and bringing ideas to reality mostly towards achieving the SDG goals, an AIESECer, critical thinker and Solution-oriented persona interested in building an open-source and growing community.
 
+## Projects 🔭
+
+* Building SCANNER, an android
+<span style="color:blue">hey</span>
 ### Hi there 👋
 
 <!--

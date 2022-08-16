@@ -6,8 +6,8 @@
 
 ## Projects 🔭
 
-* Building SCANNER, an android
-@@hey
+* Do check out my repositories.
+
 ### Hi there 👋
 
 <!--

@@ -7,6 +7,7 @@
 ## Projects 🔭
 
 * Do check out my repositories.
+* I'm actually working on TalkPal, a chatbot app to be published soon and kinda opensourced a bit.
 
 ### Hi there 👋
 

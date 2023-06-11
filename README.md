@@ -7,6 +7,7 @@
 ## Projects 🔭
 
 * Do check out my repositories.
+* Finished an art/ image generative script using JS, its an NFT era code, used around 2020-22 ish, but then check it out ok
 * I'm actually working on TalkPal, a chatbot app to be published soon and kinda opensourced a bit.
 
 ### Hi there 👋
